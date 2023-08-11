@@ -1,3 +1,3 @@
 # testrepo
 ## editing the file
-Its a markdown filw=e in this repository.
+Its a markdown file in this repository.
